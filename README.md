@@ -28,7 +28,7 @@ Replace `<your-secret-token>` with your actual secret token.
 
 4. Run the application:
 
-``node nonSharedSecret.js``
+``node index.js``
 
 
 ## Notes
