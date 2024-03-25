@@ -35,7 +35,3 @@ Replace `<your-secret-token>` with your actual secret token.
 
 - The `.env` file is not committed to the repository, ensuring that the secrets are not exposed.
 - Make sure to add `.env` to your `.gitignore` file to prevent accidental commits of the secret file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
