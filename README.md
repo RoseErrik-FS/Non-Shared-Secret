@@ -14,11 +14,9 @@ This repository demonstrates using a non-shared secret file (`.env`) that is not
 
 ``git clone <repository-url>``
 
-
 2. Navigate to the project directory:
 
 ``cd nonSharedSecret``
-
 
 3. Create a `.env` file in the project directory with the following content:
 
@@ -26,10 +24,13 @@ This repository demonstrates using a non-shared secret file (`.env`) that is not
 
 Replace `<your-secret-token>` with your actual secret token.
 
-4. Run the application:
+4. Install dependencies:
+
+``npm install``
+
+5. Run the application:
 
 ``node index.js``
-
 
 ## Notes
 
