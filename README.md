@@ -4,7 +4,7 @@ This repository demonstrates using a non-shared secret file (`.env`) that is not
 
 ## Project Structure
 
-- `nonSharedSecret.js`: The main application file that reads the secret from the `.env` file.
+- `index.js`: The main application file that reads the secret from the `.env` file.
 - `.env`: The file containing the non-shared secret (not committed to the repository).
 - `.gitignore`: The file that specifies files and directories to be ignored by Git.
 
